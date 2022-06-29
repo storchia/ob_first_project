@@ -1,1 +1,1 @@
-# ob_first_project
+# Open Bootcamp First Project
